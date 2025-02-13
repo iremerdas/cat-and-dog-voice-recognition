@@ -77,7 +77,9 @@ LSTM modeli, K-katlı Çapraz Doğrulama yöntemi ile en iyi sonucu vermiştir.
 
 ## 📜 Kaynaklar
 [Kaggle - Audio Cats and Dogs Dataset](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs/data)
+
 [Derin Öğrenme Makalesi](https://dergipark.org.tr/tr/download/article-file/2489965)
+
 [Proje Tanıtım Videosu](https://dergipark.org.tr/tr/download/article-file/2489965)
 
 
